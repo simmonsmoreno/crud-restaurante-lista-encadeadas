@@ -1,2 +1,3 @@
-# restaurante-lista-encadeadas
-Miniprojecto baseado em listas encadeadas
+# Miniprojecto de restaurantes baseado em listas encadeadas
+
+O projeto tem como objetivo aprofundar os nossos conhecimentos na disciplina de Algoritmo e Estrutura de Dados, colocando em prática os conhecimentos já adquiridos, desde ponteiros, estruturas, alocação dinâmica da memoria e listas com pilha e fila. Para tal iremos desenvolver um programa em C. Um único projeto e uma única função main (programa principal) que por sua vez, invocara todas as demais funções, responsabilizando-se pela execução do seu programa recorrendo ao switch-case. O projeto, uma vez executado apresenta no output um menu e sempre que necessário, submenus com varias opções. Resolvemos criar um programa que regista, lista, atualiza e remove uma estrutura de dados dos restaurante (nome, endereco, telefone e codigo)
